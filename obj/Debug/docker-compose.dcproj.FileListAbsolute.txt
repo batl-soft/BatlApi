@@ -1,0 +1,1 @@
+D:\Projects\Batl\BatlApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

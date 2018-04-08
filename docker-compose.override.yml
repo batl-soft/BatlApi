@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  batlapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"

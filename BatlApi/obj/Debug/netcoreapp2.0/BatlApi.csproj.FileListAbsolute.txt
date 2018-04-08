@@ -1,0 +1,11 @@
+D:\Projects\Batl\BatlApi\BatlApi\bin\Debug\netcoreapp2.0\BatlApi.deps.json
+D:\Projects\Batl\BatlApi\BatlApi\bin\Debug\netcoreapp2.0\BatlApi.runtimeconfig.json
+D:\Projects\Batl\BatlApi\BatlApi\bin\Debug\netcoreapp2.0\BatlApi.runtimeconfig.dev.json
+D:\Projects\Batl\BatlApi\BatlApi\bin\Debug\netcoreapp2.0\BatlApi.dll
+D:\Projects\Batl\BatlApi\BatlApi\bin\Debug\netcoreapp2.0\BatlApi.pdb
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.csprojResolveAssemblyReference.cache
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.csproj.CoreCompileInputs.cache
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.AssemblyInfoInputs.cache
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.AssemblyInfo.cs
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.dll
+D:\Projects\Batl\BatlApi\BatlApi\obj\Debug\netcoreapp2.0\BatlApi.pdb
